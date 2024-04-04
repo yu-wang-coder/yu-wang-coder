@@ -15,9 +15,9 @@
   - ⚡ Fun fact: ...
   -->
   
-  <h1 align="center">
-Hello, I'm Kibwana Miruru!
-	<a href="https://github.com/Bouaskaoun" target="_self">
+<h1 align="center">
+Hello, I'm Yibin Wen!
+	<a href="https://github.com/yu-wang-coder" target="_blank">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
@@ -25,23 +25,23 @@ Hello, I'm Kibwana Miruru!
 <hr>
 
 <pre>
-💻 I am mainly a Backend Developer
-📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
-📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently working on a fintech solution with @PesaLock
-🌱 Learning about efficient designs for scalable systems
-🌟 Main language: Java 😁
-🚩 Interested in Server Side Application development
-😃 I look forward to collaborate on impactful projects
+  - 🔭 I’m currently studying at Sun Yat-sen University.
+  - 🌱 I’m currently learning Artificial intelligence.
+<!--
+  - 👯 I’m looking to collaborate on ...
+  - 🤔 I’m looking for help with ...
+  - 💬 Ask me about ...
+  - 📫 How to reach me: ...
+  - 😄 Pronouns: ...
+  - ⚡ Fun fact: ...
+-->
 </pre>
 <hr>
 
 ## 🤝 Connect with me
 
 <p align="center">
-	<a href="mailto:mirukibs12.km@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/kibwana-miruru-322225232/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/slikshotcapture/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="wenyb5@mail2.sysu.edu.cn"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ## 💻 My Tech Stack
