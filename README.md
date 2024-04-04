@@ -27,6 +27,7 @@ Hello, I'm Yibin Wen!
 <pre>
   - 🔭 I’m currently studying at Sun Yat-sen University.
   - 🌱 I’m currently learning Artificial intelligence.
+</pre>
 <!--
   - 👯 I’m looking to collaborate on ...
   - 🤔 I’m looking for help with ...
