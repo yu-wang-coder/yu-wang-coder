@@ -41,7 +41,7 @@ Hello, I'm Yibin Wen!
 ## 🤝 Connect with me
 
 <p align="center">
-	<a href="wenyb5@mail2.sysu.edu.cn"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="wenyb5@mail2.sysu.edu.cn"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="e-mail"/></a>
 </p>
 
 ## 💻 My Tech Stack
